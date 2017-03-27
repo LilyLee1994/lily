@@ -1,7 +1,7 @@
 {
-  "name": "reactapp",
+  "name": "react",
   "version": "1.0.0",
-  "description": "",
+  "description": "react demo\r 确认安装node环境（包括npm）",
   "main": "index.js",
   "scripts": {
     "server": "cd server && json-server db.json -w -p 3000",
@@ -13,5 +13,14 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-router": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilyLee1994/lily.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LilyLee1994/lily/issues"
+  },
+  "homepage": "https://github.com/LilyLee1994/lily#readme"
 }
